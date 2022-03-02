@@ -1,3 +1,3 @@
 # minecraft-bedrock-edtition-hack-client
 
-make ur own bedrock edition hack client with this
+this is a test repo so dont expect you will get anything good out of this
